@@ -1,2 +1,2 @@
 # AgenticAi
-GenerativeAiusinglangchain
+GenerativeAi using langchain
